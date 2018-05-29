@@ -17,6 +17,7 @@
 		B8AFA43020A0E3490074074B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8AFA42E20A0E3490074074B /* LaunchScreen.storyboard */; };
 		B8AFA43B20A0E3490074074B /* Breakout_GregTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AFA43A20A0E3490074074B /* Breakout_GregTests.swift */; };
 		B8AFA44620A0E34A0074074B /* Breakout_GregUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AFA44520A0E3490074074B /* Breakout_GregUITests.swift */; };
+		B8CA6B9E20B896D100A2BF25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8CA6B9D20B896D100A2BF25 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B8AFA44120A0E3490074074B /* Breakout GregUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Breakout GregUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AFA44520A0E3490074074B /* Breakout_GregUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Breakout_GregUITests.swift; sourceTree = "<group>"; };
 		B8AFA44720A0E34A0074074B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8CA6B9D20B896D100A2BF25 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				B8AFA42520A0E3480074074B /* GameScene.swift */,
 				B818242F20A4D37D00775D81 /* GameScene.sks */,
 				B8AFA42720A0E3480074074B /* GameViewController.swift */,
+				B8CA6B9D20B896D100A2BF25 /* LaunchScreen.storyboard */,
 				B8AFA42920A0E3480074074B /* Main.storyboard */,
 				B8AFA42C20A0E3490074074B /* Assets.xcassets */,
 				B8AFA42E20A0E3490074074B /* LaunchScreen.storyboard */,
@@ -241,6 +244,7 @@
 				B8AFA42B20A0E3480074074B /* Main.storyboard in Resources */,
 				B818243020A4D37D00775D81 /* GameScene.sks in Resources */,
 				B8AFA42D20A0E3490074074B /* Assets.xcassets in Resources */,
+				B8CA6B9E20B896D100A2BF25 /* LaunchScreen.storyboard in Resources */,
 				B8AFA43020A0E3490074074B /* LaunchScreen.storyboard in Resources */,
 				B8AFA42420A0E3480074074B /* Actions.sks in Resources */,
 			);
