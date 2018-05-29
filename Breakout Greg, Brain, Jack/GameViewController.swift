@@ -6,13 +6,6 @@
 //  Copyright © 2018 gpodkowa0302. All rights reserved.
 //
 
-//
-//  GameViewController.swift
-//  Breakout
-//
-//  Created by roycetanjiashing on 14/10/16.
-//  Copyright © 2016 examplecompany. All rights reserved.
-//
 
 import UIKit
 import SpriteKit
